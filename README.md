@@ -3,6 +3,6 @@
 
 **Project Learnings-**<br> 1- Created Intractive Dashboard with the help of BI software in the form of Charts, Map, Drilldown in worksheet and analyzed online Sales Data.<br>
 2- Created Connections, join the tables and calculation to manipulating the data.<br>
-3- Used Different types of customized visualization like(Bar Chart, Column Chart, Stack Column, Donut Chart, Pie Chart, Scatter Chart,<br> Maps, Area Chart, Slicer etc).
+3- Used Different types of customized visualization like(Bar Chart, Column Chart, Stack Column, Donut Chart, Pie Chart, Scatter Chart, Maps, Area Chart, Slicer etc).
 
                
